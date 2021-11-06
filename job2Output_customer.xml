@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="ISO-8859-15"?>
+<Customer>
+  <id>1</id>
+  <name>Pratiksha</name>
+  <gender>female</gender>
+  <salary>2300</salary>
+  <department>sales</department>
+  <city>Nagar</city>
+</Customer>
+<?xml version="1.0" encoding="ISO-8859-15"?>
+<Customer>
+  <id>2</id>
+  <name>Ruchita</name>
+  <gender>female</gender>
+  <salary>2000</salary>
+  <department>it</department>
+  <city>Nashik</city>
+</Customer>
+<?xml version="1.0" encoding="ISO-8859-15"?>
+<Customer>
+  <id>3</id>
+  <name>Pooja</name>
+  <gender>female</gender>
+  <salary>8900</salary>
+  <department>cse</department>
+  <city>Pune</city>
+</Customer>
+<?xml version="1.0" encoding="ISO-8859-15"?>
+<Customer>
+  <id>4</id>
+  <name>tushar</name>
+  <gender>male</gender>
+  <salary>8456</salary>
+  <department>cse</department>
+  <city>Pune</city>
+</Customer>
+<?xml version="1.0" encoding="ISO-8859-15"?>
+<Customer>
+  <id>5</id>
+  <name>Varun</name>
+  <gender>male</gender>
+  <salary>8924</salary>
+  <department>it</department>
+  <city>Nasik</city>
+</Customer>
+<?xml version="1.0" encoding="ISO-8859-15"?>
+<Customer>
+  <id>6</id>
+  <name>Vishakha</name>
+  <gender>female</gender>
+  <salary>9757</salary>
+  <department>marketing</department>
+  <city>Indore</city>
+</Customer>
+<?xml version="1.0" encoding="ISO-8859-15"?>
+<Customer>
+  <id>7</id>
+  <name>Kishor</name>
+  <gender>male</gender>
+  <salary>4890</salary>
+  <department>sales</department>
+  <city>nagpur</city>
+</Customer>
+<?xml version="1.0" encoding="ISO-8859-15"?>
+<Customer>
+  <id>8</id>
+  <name>aditya</name>
+  <gender>male</gender>
+  <salary>5678</salary>
+  <department>sales</department>
+  <city>Pune</city>
+</Customer>
